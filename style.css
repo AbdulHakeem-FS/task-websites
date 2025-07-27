@@ -1,0 +1,48 @@
+h1 {
+
+    font: 200;
+    color: rgb(255, 73, 104)
+}
+
+img {
+    margin: 5px;
+    float: left;
+    margin-right: 39px;
+}
+
+i {
+    align-items: left;
+    color: red;
+    float: right;
+    margin: 50px;
+}
+
+hr {
+    color: aqua;
+
+}
+iframe {
+    margin-left: 30px;
+    margin-right: 89px;
+    float: left;
+}
+button{
+    font-size: larger;
+    float: right;
+    border: black;
+    background-color: white;
+}
+
+fieldset{
+    align-items: center;
+    background-color: lightgray;
+}
+
+h3{
+    font-size: xxx-large;
+}
+pre{
+    float: right;
+    margin-top: 48px;
+}
+
